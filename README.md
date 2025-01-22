@@ -1,4 +1,4 @@
-# TIC-TAK-GAME
+# TIC-TAK-GAME 🎯
 
 
 Tic Tac Toe, also known as Noughts and Crosses, is a simple two-player strategy game typically played on a 3x3 grid. In Java, you can implement this game using various programming techniques such as object-oriented programming or procedural programming. Below is a detailed description of the game and how it can be implemented using Java:
