@@ -97,5 +97,11 @@ Tic-Tac-Toe, also called **Noughts and Crosses**, is a classic two-player strate
 ✅ **Timed Moves**: Limit the time players have to make their move.  
 
 ---
+Contact 📬
+For any questions or suggestions, feel free to contact me:
+
+Email: mohamedsilar26@gmail.com
+LinkedIn: Mohamed Silar
+Thank you for checking out the Food-Coma project! I hope you find it useful and look forward to your feedback. 😊
 
 **Enjoy the ultimate Tic-Tac-Toe experience!** ✨
