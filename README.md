@@ -1,4 +1,4 @@
-### 🎯 **Tic-Tac-Toe Game**  
+### 🎯 **Tic-Tac-Toe Game** 
 Tic-Tac-Toe, also called **Noughts and Crosses**, is a classic two-player strategy game played on a 3x3 grid. Here's how it can be implemented in **Java**:
 
 ---
